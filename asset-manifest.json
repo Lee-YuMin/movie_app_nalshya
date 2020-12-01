@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movie_app_nalshya/static/css/main.c01852f7.chunk.css",
+    "main.js": "/movie_app_nalshya/static/js/main.8920d7df.chunk.js",
+    "main.js.map": "/movie_app_nalshya/static/js/main.8920d7df.chunk.js.map",
+    "runtime-main.js": "/movie_app_nalshya/static/js/runtime-main.4319b3be.js",
+    "runtime-main.js.map": "/movie_app_nalshya/static/js/runtime-main.4319b3be.js.map",
+    "static/js/2.35c8f6a0.chunk.js": "/movie_app_nalshya/static/js/2.35c8f6a0.chunk.js",
+    "static/js/2.35c8f6a0.chunk.js.map": "/movie_app_nalshya/static/js/2.35c8f6a0.chunk.js.map",
+    "index.html": "/movie_app_nalshya/index.html",
+    "static/css/main.c01852f7.chunk.css.map": "/movie_app_nalshya/static/css/main.c01852f7.chunk.css.map",
+    "static/js/2.35c8f6a0.chunk.js.LICENSE.txt": "/movie_app_nalshya/static/js/2.35c8f6a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4319b3be.js",
+    "static/js/2.35c8f6a0.chunk.js",
+    "static/css/main.c01852f7.chunk.css",
+    "static/js/main.8920d7df.chunk.js"
+  ]
+}
